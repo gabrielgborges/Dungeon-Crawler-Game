@@ -1,4 +1,4 @@
-# UE5_DungeonCrawler_Demo
+# Dungeon Crawler - Game Demo
 Mostly developed in C++, play against 2 AI enemy archetypes and one boss developed with behaviour tree, EQS and AI perceptions.
 
 # Main features include:
